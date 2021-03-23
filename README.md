@@ -267,3 +267,8 @@ Output:
 
 `https://example.com?name[0]=alireza&name[1]=alireza&username[0]=alirezap30web&username[1]=ali`
 
+** CopyRight ** : 
+
+AlirezaP30web : Alireza Ahmadi
+
+ceo@alirezap30web.ir
